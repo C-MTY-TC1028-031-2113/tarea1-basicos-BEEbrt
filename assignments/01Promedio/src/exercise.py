@@ -1,3 +1,4 @@
+
 print("Programa para calcular promedios de valores")
 suma=0
 contador=0
