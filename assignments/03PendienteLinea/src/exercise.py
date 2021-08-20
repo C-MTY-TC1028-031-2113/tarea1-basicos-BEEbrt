@@ -1,9 +1,6 @@
-def main():
-    #escribe tu código abajo de esta línea
-    #Lee los datos
-    pass
-
-
-
-if __name__ == '__main__':
-    main()
+puno=float(input("Dame el x1: "))
+duno=float(input("Dame el x2: "))
+yuno=float(input("Dame el y1: "))
+yduno=float(input("Dame el y2: "))
+pendiente= (yduno - yuno) / (duno - puno)
+print("La pendiente es: ", pendiente)
